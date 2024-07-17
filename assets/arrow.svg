@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ic_arrow2_white</title>
+    <defs>
+        <polygon id="path-1" points="20 11 7.83 11 13.42 5.41 12 4 4 12 12 20 13.41 18.59 7.83 13 20 13"></polygon>
+    </defs>
+    <g id="ic_arrow2_white" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Bounding-Box-Shape" x="0" y="0" width="24" height="24"></rect>
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Shape" fill="#383F4F" transform="translate(12.000000, 12.000000) scale(-1, 1) translate(-12.000000, -12.000000) " xlink:href="#path-1"></use>
+    </g>
+</svg>
